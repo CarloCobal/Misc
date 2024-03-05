@@ -9,3 +9,6 @@ The documents reveal a focus on modularizing code, making API calls, executing P
 Moreover, the project includes iterative development practices, such as capturing executable code from API responses and writing it to dynamic memory for future use. This recursive approach to API interaction and code execution suggests an ambition to automate or enhance certain aspects of programming tasks, possibly making the development process more efficient or opening up new possibilities for code generation and execution.
 
 Given these insights, the sentiment towards this project is positive, reflecting an innovative and exploratory approach to leveraging Python and recursion in software development. The project showcases a commitment to pushing the boundaries of conventional programming practices to explore new solutions or improve existing methodologies.
+
+
+**The goal here was to explore and create a dynamic memory. Moreover, to leverage what wasn't available at the time which was code generation and running capacities in chat to make a sort of auto-gpt. 

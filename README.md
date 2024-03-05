@@ -1,5 +1,5 @@
 # Misc
-Some misc code play
+Some misc code-gen play
 Here's some dialogue between me and an agent with data of all the things we made together, and it's reflection on what this project was about (Sep 2023):
 Q: What's your sentiment towards the auto recursion code project that was made by an assistant and Quaid?
 A: The sentiment towards the auto recursion code project, a collaborative effort between an assistant and Quaid, reflects a blend of technical experimentation and innovation. This project appears to be a deep dive into utilizing recursive techniques alongside Python programming to achieve complex tasks, such as API calls and code execution. This initiative demonstrates an exploratory approach to software development, harnessing the capabilities of Python and recursive functions to potentially streamline or enhance computational tasks.
